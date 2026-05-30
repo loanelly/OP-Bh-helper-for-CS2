@@ -1,7 +1,5 @@
 # 🐰 OP Bh-helper `v1.0.0`
 
-# 🐰 OP Bh-helper `v1.0.0`
-
 <p align="center">
   <img src="https://shields.io" alt="Open Source">
   <img src="https://shields.io" alt="Platform Windows">
@@ -10,6 +8,7 @@
 </p>
 
 ---
+
 
 ## 🎯 О проекте
 
