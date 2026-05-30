@@ -34,7 +34,11 @@ def press_space():
 class BhopApp:
     def __init__(self, root):
         self.root = root
-        self.root.title("CS2 BHOP (Tkinter)")
+        
+        # Генерация случайного числа от 1000 до 9999 для названия окна
+        random_title = str(random.randint(1000, 9999))
+        self.root.title(random_title)
+        
         self.root.geometry("420x240")
         self.root.resizable(False, False)
         self.root.configure(bg="#2c3e50")
