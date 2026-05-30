@@ -1,10 +1,9 @@
 # 🐰 OP Bh-helper `v1.0.0`
 
 <p align="center">
-  <img src="https://shields.io" alt="Open Source">
-  <img src="https://shields.io" alt="Platform Windows">
-  <img src="https://shields.io" alt="Python Version">
-  <img src="https://shields.io" alt="MIT License">
+  <img src="https://jsdelivr.net" width="40" height="40" alt="Open Source" style="margin: 0 10px;"/>
+  <img src="https://jsdelivr.net" width="40" height="40" alt="Platform Windows" style="margin: 0 10px;"/>
+  <img src="https://jsdelivr.net" width="40" height="40" alt="Python Version" style="margin: 0 10px;"/>
 </p>
 
 ---
