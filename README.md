@@ -1,4 +1,4 @@
-# 🐰 OP Bh-helper `v1.0.0`
+# 🐰 OP Bh-helper `v1.1.0`
 
 <p align="center">
   <img src="images/github.png" width="45" height="45" alt="Open Source" style="margin: 0 10px;"/>
