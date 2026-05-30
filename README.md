@@ -1,12 +1,13 @@
 # 🐰 OP Bh-helper `v1.0.0`
 
 <p align="center">
-  <img src="https://jsdelivr.net" width="40" height="40" alt="Open Source" style="margin: 0 10px;"/>
-  <img src="https://jsdelivr.net" width="40" height="40" alt="Platform Windows" style="margin: 0 10px;"/>
-  <img src="https://jsdelivr.net" width="40" height="40" alt="Python Version" style="margin: 0 10px;"/>
+  <img src="images/github.png" width="45" height="45" alt="Open Source" style="margin: 0 10px;"/>
+  <img src="images/windows.png" width="45" height="45" alt="Platform Windows" style="margin: 0 10px;"/>
+  <img src="images/python.png" width="45" height="45" alt="Python Version" style="margin: 0 10px;"/>
 </p>
 
 ---
+
 
 
 ## 🎯 О проекте
